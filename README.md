@@ -65,7 +65,7 @@
 <section class="contact">
   <h2>Get In Touch</h2>
   <p>WhatsApp: <a href="https://wa.me/27713684114" target="_blank" style="color:#fff;">+27 XX XXXX</a></p>
-  <p>Instagram: <a href="https://instagram.com/lokal_sa" target="_blank" style="color:#fff;">@lokal.sa</a></p>
+  <p>Instagram: <a href="https://instagram.com/lokalwear_SA" target="_blank" style="color:#fff;">@lokal.sa</a></p>
 </section>
 
 <footer>
